@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on https://github.com/leightonoff/NoteBook & a private project
+- 🔭 I’m currently working on learing more about backend web development
 - 🌱 I’m currently learning how to use React Web framework 
 - ⚡ Fun fact: I'm currently studying computer engineering
 <!--
