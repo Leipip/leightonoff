@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on learing more about web development
 - 🌱 I’m currently learning how to use the Vue.js framework 
-- ⚡ Fun fact: I've recently graudted with a degree in Computer Engineering  
+- ⚡ Fun fact: I've recently graduated with a degree in Computer Engineering  
 <!--
 **leightonoff/leightonoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
