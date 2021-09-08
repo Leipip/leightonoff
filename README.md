@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 - 🔭 I’m currently working on learning Vue.js
 - 🌱 I’m currently learning how to use the Vue.js framework 
