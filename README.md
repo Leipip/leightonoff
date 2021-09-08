@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- 🔭 I’m currently working on learning Vue.js
+- 🔭 I’m currently working on learning more about Vue.js
 - 🌱 I’m currently learning how to use the Vue.js framework 
 - ⚡ Fun fact: I've recently graduated with a degree in Computer Engineering  
 <!--
